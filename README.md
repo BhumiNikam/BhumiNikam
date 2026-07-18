@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhumi+Nikam;Java+Full+Stack+Developer;Web+Development+Learner;Java+Enthusiast+%E2%98%95" alt="Typing SVG" />
+# 👋 Hi, I'm Bhumi Nikam
 
-### 💻 Java Full Stack Developer &nbsp;|&nbsp; 🌐 Web Development Learner &nbsp;|&nbsp; ☕ Java Enthusiast
+💻 Java Full Stack Developer &nbsp;|&nbsp; 🌐 Web Development Learner &nbsp;|&nbsp; ☕ Java Enthusiast
 
 Passionate about building Java applications, solving coding problems, and learning modern web technologies.
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=BhumiNikam&color=ED8B00&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/BhumiNikam?label=Follow&style=social)](https://github.com/BhumiNikam)
 
 </div>
 
@@ -20,7 +15,7 @@ Passionate about building Java applications, solving coding problems, and learni
 - 🌱 Currently learning **Java Full Stack Development**
 - 💡 Practicing **DSA & Problem Solving**
 - 🔗 Exploring **JDBC, Hibernate, Servlets & JSP**
-- 🌐 Learning **Frontend + Backend Development**
+- 🍃 Learning **Spring Boot**
 - 🎯 Preparing for **Placements & TCS NQT**
 - 📚 Consistently improving coding skills through projects and practice
 
@@ -28,46 +23,13 @@ Passionate about building Java applications, solving coding problems, and learni
 
 ## 🛠 Tech Stack
 
-<div align="center">
+**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Languages**
+**Backend:** ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-ED8B00?style=flat-square&logo=java&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Database:** ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-**Backend**
-
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📌 Current Focus
-
-- 🏗️ Building Java projects
-- 🌐 Full stack development
-- 🧩 Improving DSA skills
-- 🍃 Learning Spring Boot
-- 🚀 Creating real-world applications
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -75,12 +37,8 @@ Passionate about building Java applications, solving coding problems, and learni
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BhumiNikam&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BhumiNikam&show_icons=true&theme=vue-dark&hide_border=true" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhumiNikam&layout=compact&theme=vue-dark&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhumiNikam&theme=vue-dark&hide_border=true" />
 
 </div>
 
@@ -88,16 +46,12 @@ Passionate about building Java applications, solving coding problems, and learni
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhumiNikam)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BhumiNikam)
 
 ---
 
 <div align="center">
 
-### ⭐ *"Consistency and practice build strong developers."*
+⭐ *"Consistency and practice build strong developers."*
 
 </div>
